@@ -1,0 +1,45 @@
+
+.home {
+	background: #EFECEC;
+	color: dark;
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
+
+footer p a {
+	margin: 5px 15px;
+	text-decoration: none;
+}
+
+.margem{
+	margin-left: 5.9em;
+	margin-top: 5em;
+}
+
+.postagem-lateral{
+	font-size: 1em;
+	border-bottom: 1px dotted #CCC;
+}
+
+.margin{
+	margin-right: 0px;
+}
+
+.conteudo-lateral .lateral a:hover {
+	background: #F3EEEE url(../img/marcador.png) no-repeat left center;
+	padding-left: 20px ;
+	color: #3E3D3D;
+}
+
+.tam{
+	font-size: 2.5em;
+	margin-left: 0.7em;
+	color: #CCC;
+}
+
+.gerenciar{
+	background: white;
+}
